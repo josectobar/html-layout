@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    padding: 0
+}
+
+.large-frame {
+    height: 15vh;
+}
+
+.gray {
+    background-color: rgb(216, 216, 216);
+}
+
+.blue-box {
+    background-color: #3179ff;
+    height: 80%;
+    width: 10%;
+    float: left;
+    margin: 10px 3px 3px 20px;
+}
+
+.larger-frame {
+    height: 30vh;
+}
+.text-box {
+    height: 10vh;
+    width: 80vw;
+    margin: 0 auto;
+}
+
+.blue {
+    background-color: #3179ff;
+}
+
+.cyan {
+    background-color: aqua;
+}
+
+.green {
+    background-color: greenyellow
+}
+
+.yellow {
+    background-color: rgb(234, 255, 47)
+}
+
+
+

@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+}
+.top-bar {
+    background: rgb(24, 24, 24);
+    height: 15vh;
+}
+
+.main-section {
+    display: flex;
+    justify-content: space-between;
+    height: 85vh;
+}
+
+.mid-section {
+    padding-top: 75vh;
+    width: 80vw;
+    background: rgb(255, 255, 255);
+}
+
+.left-section, .right-section {
+    background: rgb(175, 175, 175);
+    width: 20vw;
+}
+
+.mid-footer {
+    background: rgb(34, 34, 34);
+    height: 10vh;
+    /* position: absolute;
+    bottom: 0; */
+}
